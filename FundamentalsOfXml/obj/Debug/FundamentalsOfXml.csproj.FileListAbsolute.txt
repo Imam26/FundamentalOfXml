@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\bin\Debug\FundamentalsOfXml.exe.config
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\bin\Debug\FundamentalsOfXml.exe
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\bin\Debug\FundamentalsOfXml.pdb
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\obj\Debug\FundamentalsOfXml.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\obj\Debug\FundamentalsOfXml.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\obj\Debug\FundamentalsOfXml.exe
+C:\Users\Ильяс Сабитов\source\repos\FundamentalsOfXml\FundamentalsOfXml\obj\Debug\FundamentalsOfXml.pdb
